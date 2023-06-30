@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "webpack --mode production"
+    "start": "node index.js"
   },
   "author": "void143",
   "license": "MIT",
