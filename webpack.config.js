@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './index.js'
+  entry: './index.js',
   resolve: {
     fallback: {
       async_hooks: false,
